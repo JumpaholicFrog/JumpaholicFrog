@@ -25,4 +25,10 @@
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></p>
 
 ***
-<h3 align="left">Latest Projects:</h3>
+<h2 align="left">More about Frog & Panda:</h2>
+ We blablablablaba
+ 
+<h3 align="left">Latest Projects:</h4>
+<a href="https://frog-panda.itch.io/blindfolded-chef">
+  <img align="left" src="https://imgur.com/RHQVK6m.png" />
+</a>
