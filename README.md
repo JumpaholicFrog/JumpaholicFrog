@@ -1,6 +1,6 @@
 <h1 align="center">Hi 🐸, I'm a test</h1>
 <h3 align="center">A passionate game developer from Spain</h3>
-<h4 align="center">The inseparable partner of <a href="https://github.com/BambooholicPanda">@BambooholicPanda</a></h4>
+<h4 align="center">-</h4>
 
 - 🔭 I’m currently working on **A**
 
