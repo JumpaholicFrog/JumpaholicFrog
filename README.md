@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🐸, I'm a test</h1>
+<h1 align="center">Hi 🐸, I'm a Blupblurp</h1>
 <h3 align="center">A passionate game developer from Spain</h3>
 <h4 align="center">-</h4>
 
@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **B**
 
-- 📫 How to reach me **luissarria26@gmail.com**
+- 📫 How to reach me **sarriapl26@gmail.com**
 
 - ⚡ Fun fact **D**
 
