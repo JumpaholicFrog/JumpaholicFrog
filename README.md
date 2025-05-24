@@ -26,7 +26,7 @@
 ---
 
 <h2 align="left">More about Frog & Panda:</h2>
- We blablablablaba
+ We...
  
 <h3 align="left">Latest Projects:</h4>
 <a href="https://frog-panda.itch.io/blindfolded-chef">
