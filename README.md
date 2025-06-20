@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🐸, I'm a Blupblurp</h1>
+<h1 align="center">Hi 🐸, I'm Blupblurp</h1>
 <h3 align="center">A passionate game developer from Spain</h3>
 <h4 align="center">-</h4>
 
